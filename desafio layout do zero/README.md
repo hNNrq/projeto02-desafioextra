@@ -8,7 +8,7 @@ O desafio consiste em recriar uma aplicação, atarvés de um layout, com o int
 
 O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) abaixo:
 
-<p><img src="imag.png" alt="Logo do site" /></p>
+<p><img src="assets/img.png" alt="Página Inicial" /></p>
 
 ## 🚀 Tecnologias
 
